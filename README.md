@@ -1,4 +1,4 @@
-#Pygame - Spaceship  
+# Pygame - Spaceship  
 This is a spaceship game created by following a youtube tutorial
 
 ## Dependancies
