@@ -1,4 +1,4 @@
-#This is a spaceship game created by following a youtube tutorial
+*This is a spaceship game created by following a youtube tutorial
 
 *py -m pip install -U pygame --user
 
