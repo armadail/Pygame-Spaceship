@@ -7,8 +7,8 @@ This is a spaceship game created by following a youtube tutorial
 
 ## References/Sources
 ### tutorial followed:
-https://www.youtube.com/watch?v=FfWpgLFMI7w&t=186s
-*modification of code for Up down Controls
+https://www.youtube.com/watch?v=FfWpgLFMI7w&t=186s /n
+*modification of code for Up down Controls*
 
 - images from 
 - freepik.com 
