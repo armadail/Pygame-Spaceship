@@ -6,18 +6,18 @@ This is a spaceship game created by following a youtube tutorial
 
 
 ## References/Sources
-tutorial followed:
+### tutorial followed:
 https://www.youtube.com/watch?v=FfWpgLFMI7w&t=186s
 *modification of code for Up down Controls
 
-images from 
-freepik.com 
-flaticon.com
+- images from 
+- freepik.com 
+- flaticon.com
 
-text from 
-dafont.com
+### text from 
+- dafont.com
 
-audio from
-freesound.org
+### audio from
+- freesound.org
 
 
