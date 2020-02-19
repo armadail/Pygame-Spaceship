@@ -1,4 +1,4 @@
-#Pygame - Spaceship
+#Pygame - Spaceship  
 This is a spaceship game created by following a youtube tutorial
 
 ## Dependancies
@@ -10,7 +10,7 @@ This is a spaceship game created by following a youtube tutorial
 https://www.youtube.com/watch?v=FfWpgLFMI7w&t=186s  
 *modification of code for Up down Controls*
 
-- images from 
+### images from 
 - freepik.com 
 - flaticon.com
 
